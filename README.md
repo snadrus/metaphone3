@@ -4,3 +4,5 @@ Use this to identify when two English words sound the same. This makes it possib
 easily match misspellings to the already-known correct word or name. 
 
 A manual Java --> Golang port of the text sound classifier. 
+
+This is presently the best Soundex system (as of this writing) in terms of its ability to find similarities. 
